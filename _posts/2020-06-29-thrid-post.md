@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: Dicing Dice( VR hythm Game )
 featured-img: shane-rounce-205187_thumb
 mathjax: true
 ---
