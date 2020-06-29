@@ -1,6 +1,7 @@
 ---
+layout: post
 title: "AR Newspaper"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+featured-img: ARNewspaper
+categories: [Sample, Guides]
 ---
 This is AR Newspaper page
