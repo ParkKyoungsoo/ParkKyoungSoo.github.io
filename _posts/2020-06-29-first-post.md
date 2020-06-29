@@ -1,7 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2020-06-29 14:42:00 -0400
-categories: jekyll update
+layout: post
+title: Getting Started with Sleek
+featured-img: sleek
+mathjax: true
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
