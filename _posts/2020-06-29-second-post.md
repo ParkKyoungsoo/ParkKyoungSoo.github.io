@@ -2,8 +2,9 @@
 layout: post
 title: "AR Newspaper"
 featured-img: ARNewspaper
-categories: [Sample, Guides]
+mathjax: true
 ---
+
 This is AR Newspaper page
 
 #### Images
