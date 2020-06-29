@@ -2,7 +2,6 @@
 layout: post
 title: "AR Newspaper"
 featured-img: ARNewspaper
-mathjax: true
 ---
 
 This is AR Newspaper page
