@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dicing Dice( VR Rhythm Game )
-featured-img: shane-rounce-205187_thumb
+featured-img: shane-rounce-205187
 mathjax: true
 ---
 
