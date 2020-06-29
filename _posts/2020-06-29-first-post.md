@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started with Sleek
+title: This is my First Post
 featured-img: sleek
 ---
 
