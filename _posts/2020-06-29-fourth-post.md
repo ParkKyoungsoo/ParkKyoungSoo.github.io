@@ -4,4 +4,4 @@ title: Happy House"
 featured-img: shane-rounce-205187
 ---
 
-This is HappyHouse WebPage
+This is HappyHouse WebPage.
