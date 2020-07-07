@@ -4,7 +4,8 @@ title: "AR Newspaper"
 featured-img: ARNewspaper
 ---
 ### AR NewsPaper
-<대표사진들  3~4장 정도?>
+![ARNewspaper1](https://user-images.githubusercontent.com/44697835/86775960-c7ea4a00-c092-11ea-932a-44172a47dd03.png)  &nbsp; &nbsp;  ![ARNewspaper2](https://user-images.githubusercontent.com/44697835/86775970-ca4ca400-c092-11ea-9e7b-408b8b944651.png)
+
 
 
 ### 목적
