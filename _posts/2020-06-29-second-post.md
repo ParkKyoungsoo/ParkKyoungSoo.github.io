@@ -3,6 +3,7 @@ layout: post
 title: "AR Newspaper"
 featured-img: ARNewspaper
 ---
+
 # AR NewsPaper
 ![ARNewspaper](https://user-images.githubusercontent.com/44697835/86776741-68406e80-c093-11ea-86ca-eb1f27738aa6.jpg)  
 
@@ -14,8 +15,10 @@ featured-img: ARNewspaper
 ### 목적
 활자신문의 제한적인 정보 전달과 지루함을 해결하기 위해 증강현실을 사용하여 3D 오브젝트, 동영상 등을 함께 제공하여 다양한 정보 제공 및 지루함 개선
 
+
 ### 제작 기간
 2018년 3월 ~ 2018년 6월
+
 
 ### 내용
 학부시절 졸업작품으로 Unity를 사용하여 '증강현실을 이용한 신문'을 제작하였습니다. 
@@ -24,6 +27,7 @@ featured-img: ARNewspaper
  예를 들어 스포츠 뉴스의 경우, 해당 경기 관련 하이라이트 영상을 보여줌으로써 글로만 유추 할 수 없었던 장면들을 제공 할 수 있고, 특정 물건에 관한 기사가 있을경우 해당 물건을 3D 오브젝트화 시켜 사용자에게 제공함으로써 사용자는 글로만 읽었을때 보다 더 많은 정보와 흥미를 느낄 수 있습니다. 또한 이를 신문에만 국한하는게 아닌 책과 잡지에도 사용 할 수 있습니다.
 
 Unity와 Vuforia SDK를 이용하여 작품을 제작하였습니다. Vuforia에 마커들을 등록하고 Unity의 AR카메라를 통해 마커를 인식하고 오브젝트, 동영상 등을 나타낼 수 있습니다. 또한 Unity의 가상 버튼을 이용하여 어플리케이션상에서만 클릭하는게 아닌 현실세계에서의 버튼을 만들어 사용자와 신문사이의 상호작용이 가능하도록 제작하였습니다.
+
 
 ### 개발환경
 ![unity](https://user-images.githubusercontent.com/44697835/86319504-a1ca4180-bc6f-11ea-81b7-51601427b49b.png)  &nbsp; &nbsp;  ![c#](https://user-images.githubusercontent.com/44697835/86319304-34b6ac00-bc6f-11ea-9b19-00067f7b6457.png)  &nbsp; &nbsp;  ![vuforia_resize](https://user-images.githubusercontent.com/44697835/86773855-fc5d0680-c090-11ea-981a-fe40c014873b.png)
