@@ -22,3 +22,4 @@ featured-img: ARNewspaper
 Unity와 Vuforia SDK를 이용하여 작품을 제작하였습니다. Vuforia에 마커들을 등록하고 Unity의 AR카메라를 통해 마커를 인식하고 오브젝트, 동영상 등을 나타낼 수 있습니다. 또한 Unity의 가상 버튼을 이용하여 어플리케이션상에서만 클릭하는게 아닌 현실세계에서의 버튼을 만들어 사용자와 신문사이의 상호작용이 가능하도록 제작하였습니다.
 
 ### 개발환경
+![unity](https://user-images.githubusercontent.com/44697835/86319504-a1ca4180-bc6f-11ea-81b7-51601427b49b.png)  &nbsp; &nbsp;  ![c#](https://user-images.githubusercontent.com/44697835/86319304-34b6ac00-bc6f-11ea-9b19-00067f7b6457.png)  &nbsp; &nbsp;  ![vuforia_resize](https://user-images.githubusercontent.com/44697835/86773855-fc5d0680-c090-11ea-981a-fe40c014873b.png)
