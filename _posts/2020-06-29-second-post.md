@@ -4,19 +4,18 @@ title: "AR Newspaper"
 featured-img: ARNewspaper
 ---
 
-증강현실을 이용한 신문
 
-#### 개요
+#### 목적
+활자신문의 제한적인 정보 전달과 지루함을 해결하기 위해 증강현실을 사용하여 3D 오브젝트, 동영상 등을 함께 제공하여 다양한 정보 제공 및 지루함 개선
 
-In case you want to add a hero image to the post, apart from changing `featured-img` in YAML, you also need to add the image file to the project. To do so, just upload an image in `.jpg` format to `_img` folder. The name must before the `.jpg` file extension has to match with `featured-img` in YAML. Next, run `gulp img` from command line to generate optimized version of the image and all the thumbnails. You have to restart  the jekyll server to see the changes. Sleek uses [Lazy Sizes](https://github.com/aFarkas/lazysizes) Lazy Loader for loading imaThis is AR Newspaper pageges. Check the link for more info. Lazy Sizes doesnt't require any configuration and it's going to be included in your bundled js file.
+### 제작 기간
+2018년 3월 ~ 2018년 6월
 
-### Pages
+### 내용
 
-The home page is located under `index.md` file. To change the content or design you have to edit the `default.html` file in `_layouts` folder.
 
-In order to add a new page, create a new html or markdown file under root directory or inside `_pages` folder. To add a link to the page, edit `navigation` setting in `_config.yml`.
 
-### Images TODO
+### 작품
 
 Introduce gulp optimization
 
