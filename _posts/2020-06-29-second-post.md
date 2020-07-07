@@ -4,7 +4,10 @@ title: "AR Newspaper"
 featured-img: ARNewspaper
 ---
 ### AR NewsPaper
-![ARNewspaper1](https://user-images.githubusercontent.com/44697835/86775960-c7ea4a00-c092-11ea-932a-44172a47dd03.png)  &nbsp; &nbsp;  ![ARNewspaper2](https://user-images.githubusercontent.com/44697835/86775970-ca4ca400-c092-11ea-9e7b-408b8b944651.png)
+![ARNewspaper](https://user-images.githubusercontent.com/44697835/86776741-68406e80-c093-11ea-86ca-eb1f27738aa6.jpg)  
+
+![ARNewspaper1](https://user-images.githubusercontent.com/44697835/86776755-6aa2c880-c093-11ea-87af-8b53727b4afb.png)  &nbsp; &nbsp;  ![ARNewspaper2](https://user-images.githubusercontent.com/44697835/86776767-6c6c8c00-c093-11ea-9e18-5bd5d8c90870.png)
+
 
 
 
