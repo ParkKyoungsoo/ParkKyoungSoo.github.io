@@ -7,15 +7,8 @@ featured-img: shane-rounce-205187
 
 # Happy House
 ![HappyHouseMain](https://user-images.githubusercontent.com/44697835/86885828-e3a42d80-c130-11ea-9519-b94d80e11ba2.png)  
-<메인 페이지>  
-  
-  
-![HappyHouseBoard](https://user-images.githubusercontent.com/44697835/86887150-1bac7000-c133-11ea-9532-16bfbac082ab.png)
-<공지사항 페이지>  
-  
-    
-![HappyHouseSearch](https://user-images.githubusercontent.com/44697835/86887247-3ed71f80-c133-11ea-8242-16edf65fecd5.png)
-<부동산 매물 조회 및 주변 상권 조회>  
+![HappyHouseBoard](https://user-images.githubusercontent.com/44697835/86887150-1bac7000-c133-11ea-9532-16bfbac082ab.png)  
+![HappyHouseSearch](https://user-images.githubusercontent.com/44697835/86887247-3ed71f80-c133-11ea-8242-16edf65fecd5.png)  
   
   
 
