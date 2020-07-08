@@ -6,8 +6,14 @@ featured-img: shane-rounce-205187
 
 
 # Happy House
-<해피하우스 핵심 기능 이미지 2~3장 정도?>
+![HappyHouseMain](https://user-images.githubusercontent.com/44697835/86885828-e3a42d80-c130-11ea-9519-b94d80e11ba2.png)  
+<메인 페이지>  
+  
+![HappyHouseBoard](https://user-images.githubusercontent.com/44697835/86885830-e43cc400-c130-11ea-8f49-39a39b800bcd.png)  
+<공지사항 페이지>
 
+![HappyHouseSearch](https://user-images.githubusercontent.com/44697835/86885834-e56df100-c130-11ea-8fa1-663c2ec60ee7.png)  
+<부동산 매물 조회 및 주변 상권 조회>
 
 
 
