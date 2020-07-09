@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dicing Dice( VR Rhythm Game )
-featured-img: Dicing_Dice
+featured-img: DicingDice
 ---
 
 # Dicing Dice(VR Rhyth Game)
