@@ -27,4 +27,5 @@ Dicing Dice는 Unity와 SteamVR Plugin을 사용하고 HTC Vive Pro를 이용한
 
 
 ### 개발환경
-![unity](https://user-images.githubusercontent.com/44697835/86319504-a1ca4180-bc6f-11ea-81b7-51601427b49b.png)  &nbsp; &nbsp;  ![c#](https://user-images.githubusercontent.com/44697835/86319304-34b6ac00-bc6f-11ea-9b19-00067f7b6457.png)  &nbsp; &nbsp;  ![vuforia_resize](https://user-images.githubusercontent.com/44697835/86773855-fc5d0680-c090-11ea-981a-fe40c014873b.png)
+![unity](https://user-images.githubusercontent.com/44697835/86319504-a1ca4180-bc6f-11ea-81b7-51601427b49b.png)  &nbsp; &nbsp;  ![c#](https://user-images.githubusercontent.com/44697835/86319304-34b6ac00-bc6f-11ea-9b19-00067f7b6457.png)  &nbsp; &nbsp;  ![vuforia_resize](https://user-images.githubusercontent.com/44697835/86773855-fc5d0680-c090-11ea-981a-fe40c014873b.png)  &nbsp; &nbsp;  ![SteamVR](https://user-images.githubusercontent.com/44697835/87011178-89739d00-c202-11ea-822e-d6d8320c0012.png)
+
