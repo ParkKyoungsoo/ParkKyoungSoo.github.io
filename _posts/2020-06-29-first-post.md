@@ -4,9 +4,7 @@ title: About Me
 featured-img: sleek
 ---
 
-간단 자기소개 페이지
 
-사용가능 언어들 표시(png 파일 경로 확인 필요)
 My Skill :
 
 ![html_css_js](https://user-images.githubusercontent.com/44697835/86319956-acd1a180-bc70-11ea-946e-09a11a71fb27.png) &nbsp; &nbsp; ![vue](https://user-images.githubusercontent.com/44697835/86319509-a3940500-bc6f-11ea-815e-6f7612ee657a.png) &nbsp; &nbsp; ![jquery_2](https://user-images.githubusercontent.com/44697835/86319481-9a0a9d00-bc6f-11ea-855e-e0bf301d8185.png)  &nbsp; &nbsp;  ![java](https://user-images.githubusercontent.com/44697835/86319460-9119cb80-bc6f-11ea-9cb2-92a5c15f47b5.png)  
