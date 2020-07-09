@@ -1,20 +1,28 @@
 ---
 layout: post
 title: Dicing Dice( VR Rhythm Game )
-featured-img: shane-rounce-205187
+featured-img: Dicing_Dice
 ---
 
 # Dicing Dice(VR Rhyth Game)
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//NnXIqQv0m7I' frameborder='0' allowfullscreen></iframe></div>
 
+
+
 ### 목적
+Unity와 HTC Vive Pro, SteamVR Plugin을 이용한 실감형 VR게임 제작
+
 
 
 ### 제작 기간
 2018년 10월 ~ 2019년 2월
 
 
+
 ### 내용
+Dicing Dice는 Unity와 SteamVR Plugin을 사용하고 HTC Vive Pro를 이용한 VR게임 입니다.
+
+
 
 
 
