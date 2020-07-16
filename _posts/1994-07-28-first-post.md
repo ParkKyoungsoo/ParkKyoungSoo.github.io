@@ -4,6 +4,9 @@ title: About Me
 featured-img: sleek
 ---
 
+![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626746-1b7e2700-c768-11ea-89b8-c702d58f9197.jpg) ![1504485649281](https://user-images.githubusercontent.com/44697835/87626749-1d47ea80-c768-11ea-8c6c-278adc2dab26.jpg)
+
+
 
 My Skill :
 
