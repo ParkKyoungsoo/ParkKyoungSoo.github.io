@@ -65,7 +65,7 @@ React를 이용하여 프론트앤드 로직 및 페이지별 기초 틀 구현
 <br />
 
 ## UCC 바로가기
-https://youtu.be/yYATWom7qzY
+<href a="https://youtu.be/yYATWom7qzY">골라라 골라</href>
 
 
 
