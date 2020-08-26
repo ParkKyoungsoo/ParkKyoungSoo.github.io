@@ -4,15 +4,22 @@ title: 골라라 골라( Web Page )
 featured-img: mainbg1
 ---
 # 골라라 골라(Gola la Gola)
-![image](https://user-images.githubusercontent.com/44697835/91257328-8f1e4580-e7a4-11ea-9a65-e29e1165e824.png)<center>메인 페이지</center>  
+![image](https://user-images.githubusercontent.com/44697835/91257328-8f1e4580-e7a4-11ea-9a65-e29e1165e824.png)
 <br />
-
+<center><h4>메인 페이지</h4></center>  
+<br />
+<br />
   
-![image](https://user-images.githubusercontent.com/44697835/91258521-811df400-e7a7-11ea-8885-8eaad798dc76.png)<center>공지사항 페이지</center>    
+![image](https://user-images.githubusercontent.com/44697835/91258521-811df400-e7a7-11ea-8885-8eaad798dc76.png)
+<br />
+<center><h4>Kiosk 페이지</h4></center>    
+<br />
 <br />
 
 
-![HappyHouseSearch](https://user-images.githubusercontent.com/44697835/86887247-3ed71f80-c133-11ea-8242-16edf65fecd5.png)<center>부동산 매물 조회 및 주변 상권 조회</center>  
+![image](https://user-images.githubusercontent.com/44697835/91259081-bc6cf280-e7a8-11ea-8e12-26877daa9caf.png)
+<br />
+<center><h4>관리자 전용 페이지</h4></center>  
 <br />
 <br />
 
