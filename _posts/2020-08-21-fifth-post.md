@@ -3,8 +3,6 @@ layout: post
 title: 골라라 골라( Web Page )
 featured-img: mainbg1
 ---
-<br />
-
 # 골라라 골라(Gola la Gola)
 ![HappyHouseMain](https://user-images.githubusercontent.com/44697835/86885828-e3a42d80-c130-11ea-9519-b94d80e11ba2.png)<center>메인 페이지</center>  
 <br />
