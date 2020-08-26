@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 골라라 골라( Web Page )
-featured-img: mainbg1
+featured-img: GolalaGola
 ---
 # 골라라 골라(Gola la Gola)
 ![image](https://user-images.githubusercontent.com/44697835/91257328-8f1e4580-e7a4-11ea-9a65-e29e1165e824.png)
