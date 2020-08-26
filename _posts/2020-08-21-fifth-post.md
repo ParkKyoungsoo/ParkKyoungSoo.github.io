@@ -4,11 +4,11 @@ title: 골라라 골라( Web Page )
 featured-img: mainbg1
 ---
 # 골라라 골라(Gola la Gola)
-![HappyHouseMain](https://user-images.githubusercontent.com/44697835/86885828-e3a42d80-c130-11ea-9519-b94d80e11ba2.png)<center>메인 페이지</center>  
+![image](https://user-images.githubusercontent.com/44697835/91257328-8f1e4580-e7a4-11ea-9a65-e29e1165e824.png)<center>메인 페이지</center>  
 <br />
 
   
-![HappyHouseBoard](https://user-images.githubusercontent.com/44697835/86887150-1bac7000-c133-11ea-9532-16bfbac082ab.png)<center>공지사항 페이지</center>    
+![image](https://user-images.githubusercontent.com/44697835/91258521-811df400-e7a7-11ea-8885-8eaad798dc76.png)<center>공지사항 페이지</center>    
 <br />
 
 
