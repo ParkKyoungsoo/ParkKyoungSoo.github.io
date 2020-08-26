@@ -48,10 +48,6 @@ featured-img: mainbg1
 <br />
 <br />
 
-## 서비스 이해도
-![image](https://user-images.githubusercontent.com/44697835/91266363-18854600-e7ac-11ea-9592-cb66114bc71a.png)
-<br />
-<br />
 
 ## 제작 기간
 2020년 7월 6일 ~ 2020년 8월 21일   
