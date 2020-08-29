@@ -2,38 +2,42 @@
 layout: post
 title: 골라라 골라( Web Page )
 featured-img: GolalaGola
----
-# 골라라 골라(Gola la Gola)
-![image](https://user-images.githubusercontent.com/44697835/91257328-8f1e4580-e7a4-11ea-9a65-e29e1165e824.png)
-<br />
 
-<br />
-<br />
-<center><h4>메인 페이지</h4></center>
+---
+
+# 골라라 골라(Gola la Gola)
+
+<h3>메인 페이지</h3>
+
+![image](https://user-images.githubusercontent.com/44697835/91257328-8f1e4580-e7a4-11ea-9a65-e29e1165e824.png)
+
+
+
+
 
 *****
 
-<br />
-<br />
+
+
+<h3>Kiosk 페이지</h3>
 
 ![image](https://user-images.githubusercontent.com/44697835/91258521-811df400-e7a7-11ea-8885-8eaad798dc76.png)
-<br />
-<center><h4>Kiosk 페이지</h4></center>
+
+
 
 *****
 
-<br />
-<br />
 
+
+### 관리자페이지
 
 ![image](https://user-images.githubusercontent.com/44697835/91259081-bc6cf280-e7a8-11ea-8e12-26877daa9caf.png)
-<br />
-<center><h4>관리자 전용 페이지</h4></center>
+
+
 
 *****
 
-<br />
-<br />
+
 
 
 
@@ -52,34 +56,34 @@ featured-img: GolalaGola
 - #### 기획의도
 
   - 마트에서 나오는 재고 상품을 소비자들에게 싼 가격에 제공할 수 있도록 웹, Kiosk 를 이용한 서비스로 소비자에게 만족도 높은 소비를 촉진시키고자 한다.  
-<br />
-<br />
+    <br />
+    <br />
 
 ## 주요대상 및 타겟
 
 > 지역 상권의 점주들과 해당 상권을 이용하고자 하는 소비자들 (주부, 20, 30 대 대학생 및 사회 초년생)  
-<br />
-<br />
+> <br />
+> <br />
 
 
 ## 제작 기간
+
 2020년 7월 6일 ~ 2020년 8월 21일   
 <br />
 <br />
 
 ## 역할
+
 React를 이용하여 프론트앤드 로직 및 페이지별 기초 틀 구현  
 <br />
 <br />
 
 ## 개발환경
+
 ![image](https://user-images.githubusercontent.com/44697835/91255493-dbb35200-e79f-11ea-9180-a6dd1d5011bc.png)
 <br />
 <br />
 
 ## UCC 바로가기
+
 [골라라 골라](https://youtu.be/yYATWom7qzY)
-
-
-
-
