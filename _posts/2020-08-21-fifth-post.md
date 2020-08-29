@@ -7,7 +7,7 @@ featured-img: GolalaGola
 ![image](https://user-images.githubusercontent.com/44697835/91257328-8f1e4580-e7a4-11ea-9a65-e29e1165e824.png)
 <br />
 <center><h4>메인 페이지</h4></center>  
- * * * 
+* * * 
 <br />
 <br />
 
