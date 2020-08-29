@@ -9,21 +9,24 @@ featured-img: GolalaGola
 <center><h4>메인 페이지</h4></center>  
 <br />
 <br />
- *** 
+
+ * * * 
   
 ![image](https://user-images.githubusercontent.com/44697835/91258521-811df400-e7a7-11ea-8885-8eaad798dc76.png)
 <br />
 <center><h4>Kiosk 페이지</h4></center>    
 <br />
 <br />
-***
+
+* * *
 
 ![image](https://user-images.githubusercontent.com/44697835/91259081-bc6cf280-e7a8-11ea-8e12-26877daa9caf.png)
 <br />
 <center><h4>관리자 전용 페이지</h4></center>  
 <br />
 <br />
-***
+
+* * *
 
 ## 기획의도 및 문제의식
 
