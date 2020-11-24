@@ -5,7 +5,8 @@ featured-img: sleek
 ---
 
 # 박경수(Park Kyoung Soo)
-![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg) ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg) |기간|활동명|활동 내용|
+![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg) ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg) 
+|기간|활동명|활동 내용|
 |:---|:---|:---|
 |2018.10 ~ 2019.02| [VR,AR콘] 게임 프로그래밍 전문과정 교육|Unity와 SteamVR plugin을 이용한 VR게임 제작|
 |2019.01 ~ 2019.06|LS산전 청주연구소 통신시험|MODBUS와 DNP 3.0 통신시험 및 GIPAM모델 성능테스트|
