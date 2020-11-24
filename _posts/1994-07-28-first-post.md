@@ -4,40 +4,7 @@ title: About Me
 featured-img: sleek
 ---
 
-<table> 
-    <thead> 
-     <tr> 
-      <th>Layer 1</th> 
-      <th>Layer 2</th> 
-      <th>Layer 3</th> 
-     </tr> 
-    </thead> 
-    <tbody> 
-     <tr> 
-      <td rowspan=4><img src="https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg" alt="사진1" />
-          <tr>1
-          </tr>          
-          <tr>1
-          </tr>          
-          <tr>1
-          </tr>          
-          <tr>1
-          </tr>
-         </td> 
-      <td rowspan=4><img src="https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg" alt="사진1" /></td> 
-      <td>L3 Name A</td> 
-     </tr> 
-     <tr> 
-      <td>L3 Name B</td> 
-     </tr> 
-     <tr> 
-      <td>L3 Name C</td> 
-     </tr> 
-     <tr> 
-      <td>L3 Name D</td> 
-     </tr> 
-    </tbody> 
-</table> 
+<div style="width: 50px; height: 50px; border: 1px solid black"></div>
 
 
 # 박경수(Park Kyoung Soo)
