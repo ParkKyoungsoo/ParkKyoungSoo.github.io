@@ -26,7 +26,7 @@ featured-img: sleek
         />
       </div>
     </div>
-    <div style="width: 275"></div>
+    <div style="width: 75%; border: 1px solid rgba(0,0,0,0.2)">본문내용</div>
   </div>
 
 # 박경수(Park Kyoung Soo)
