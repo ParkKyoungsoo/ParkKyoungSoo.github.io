@@ -6,7 +6,7 @@ featured-img: sleek
 
 <table>
   <tr>
-    <td><tr rowspan="4">1</tr></td>
+    <td><tr rowspan=4>1</tr></td>
     <td>2</td>
     <td>3</td>
     <td>4</td>
