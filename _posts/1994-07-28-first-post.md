@@ -4,7 +4,17 @@ title: About Me
 featured-img: sleek
 ---
 
-  <div style="width: 200px; height: 200px; border: 1px solid red">내용이 있어야 하는가?</div>
+  <div style="display: flex; width: 100%, height: 100%">
+    <div style="width: 25%">
+      <div>
+        <img src="https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg" alt="이력서사진" />
+        <img src="https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg" alt="잘나온사진" />
+      </div>
+    </div>
+    <div style="width: 75%">
+
+    </div>
+  </div>
 
 # 박경수(Park Kyoung Soo)
 ![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg) ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg) 
