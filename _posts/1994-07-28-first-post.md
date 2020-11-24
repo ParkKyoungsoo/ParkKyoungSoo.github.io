@@ -6,7 +6,7 @@ featured-img: sleek
 
 # 박경수(Park Kyoung Soo)
 
-|:-------------------------:|:-------------------------:|:---:|
+|:---:|:---:|:---:|
 |![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg)  |  ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg)|여기여기|
 
 ![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg) ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg) 
