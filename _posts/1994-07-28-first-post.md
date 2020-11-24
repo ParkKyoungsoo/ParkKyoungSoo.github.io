@@ -25,6 +25,10 @@ featured-img: sleek
           alt="잘나온사진"
         />
       </div>
+      <div>
+        <div style="color:rgba(0,0,0,0.4)">전공</div>
+        <div>정보통신공학부(학사)</div>
+      </div>
     </div>
     <div style="width: 75%; border: 1px solid rgba(0, 0, 0, 0.2)"></div>
   </div>
