@@ -18,7 +18,7 @@ featured-img: sleek
 ||FrontEnd|BackEnd|
 |---|:---|:---|
 |언어|![html_css_js](https://user-images.githubusercontent.com/44697835/86319956-acd1a180-bc70-11ea-946e-09a11a71fb27.png) &nbsp; &nbsp; |![java](https://user-images.githubusercontent.com/44697835/86319460-9119cb80-bc6f-11ea-9cb2-92a5c15f47b5.png)  |
-|프레임워크|![vue](https://user-images.githubusercontent.com/44697835/86319509-a3940500-bc6f-11ea-815e-6f7612ee657a.png) &nbsp; &nbsp; ![react](https://user-images.githubusercontent.com/44697835/100085180-1441f500-2e8f-11eb-86db-9d2a64252d73.png){:width="100" height="100"}
+|프레임워크|![vue](https://user-images.githubusercontent.com/44697835/86319509-a3940500-bc6f-11ea-815e-6f7612ee657a.png) &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/44697835/100085180-1441f500-2e8f-11eb-86db-9d2a64252d73.png" width="40px" />
  |![springboot_2](https://user-images.githubusercontent.com/44697835/86319498-9f67e780-bc6f-11ea-8c9d-ae4c7948c638.png)  &nbsp; &nbsp;  ![mysql](https://user-images.githubusercontent.com/44697835/86319496-9d058d80-bc6f-11ea-9e23-93d8990d2fd4.png) |
 |라이브러리|![jquery_2](https://user-images.githubusercontent.com/44697835/86319481-9a0a9d00-bc6f-11ea-855e-e0bf301d8185.png)||
 
