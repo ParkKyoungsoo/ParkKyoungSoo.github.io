@@ -3,17 +3,30 @@ layout: post
 title: About Me
 featured-img: sleek
 ---
-
   <div style="display: flex; width: 100%, height: 100%">
-    <div style="width: 25%">
+    <div
+      style="
+        width: 25%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      "
+    >
       <div>
-        <img src="https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg" alt="이력서사진" />
-        <img src="https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg" alt="잘나온사진" />
+        <img
+          style="padding: 10px"
+          src="https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg"
+          alt="이력서사진"
+        />
+        <img
+          style="padding: 10px"
+          src="https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg"
+          alt="잘나온사진"
+        />
       </div>
     </div>
-    <div style="width: 75%; border: 1px solid rgba(0,0,0,0.15)">
-      왜 여기가 남는가
-    </div>
+    <div style="width: 275"></div>
   </div>
 
 # 박경수(Park Kyoung Soo)
