@@ -12,7 +12,7 @@ featured-img: sleek
       </div>
     </div>
     <div style="width: 75%">
-
+      왜 여기가 
     </div>
   </div>
 
