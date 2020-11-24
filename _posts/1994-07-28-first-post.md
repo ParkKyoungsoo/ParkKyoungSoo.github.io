@@ -5,14 +5,7 @@ featured-img: sleek
 ---
 
 # 박경수(Park Kyoung Soo)
-
-|사진|잘나온 사진|기본 인적 사항|
-|:---|:---|:---|:---|
-|![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg)|![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg)||
-
-
-
-![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg) ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg) 
+![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg) ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg)  여기에 글씨 못씀?
 
 
 |기간|활동명|활동 내용|
