@@ -6,10 +6,9 @@ featured-img: sleek
 
 # 박경수(Park Kyoung Soo)
 
-|:---|:---|:---|
-|![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg)|![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg) || 
-|2019.01 ~ 2019.06|LS산전 청주연구소 통신시험|MODBUS와 DNP 3.0 통신시험 및 GIPAM모델 성능테스트|
-|2020.01 ~ 2020.12|삼성청년소프트웨어 아카데미(SSAFY)|JAVA를 이용한 알고리즘 교육 및 프레임워크를 이용한 프로젝트 개발|
+|사진|잘나온 사진|기본 인적 사항|
+|:---|:---|:---|:---|
+|![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg)|![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg)||
 
 
 
