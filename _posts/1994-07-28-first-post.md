@@ -5,8 +5,32 @@ featured-img: sleek
 ---
 
 # 박경수(Park Kyoung Soo)
-![1504485649281](https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg) ![박경수 고객님 이력서사진1-1](https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg)  여기에 글씨 못씀?
-
+  <table>
+    <tr>
+      <td rowspan="3">
+        <img
+          src="https://user-images.githubusercontent.com/44697835/87626951-90e9f780-c768-11ea-8859-9e864a2e7925.jpg"
+          alt="취업사진"
+        />
+      </td>
+      <td rowspan="3">
+        <img
+          src="https://user-images.githubusercontent.com/44697835/87626949-90516100-c768-11ea-9d05-41fb2406468b.jpg"
+          alt="잘나온사진"
+        />
+      </td>
+      <td style="padding-left: 2%; font-size: 20px">이름 :</td>
+      <td style="padding-left: 2%; font-size: 20px">박경수</td>
+    </tr>
+    <tr>
+      <td style="padding-left: 2%; font-size: 20px">이메일 :</td>
+      <td style="padding-left: 2%; font-size: 20px">pks313527@naver.com</td>
+    </tr>
+    <tr>
+      <td style="padding-left: 2%; font-size: 20px">블로그 :</td>
+      <td style="padding-left: 2%; font-size: 20px">추가예정</td>
+    </tr>
+  </table>
 
 |기간|활동명|활동 내용|
 |:---|:---|:---|
