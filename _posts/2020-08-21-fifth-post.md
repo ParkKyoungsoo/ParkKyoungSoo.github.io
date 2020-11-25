@@ -86,7 +86,9 @@ ContextAPI를 이용한 state 관리
 <br />
 
 ## 개발 후기
+React를 이용한 첫 프로젝트 입니다. 당시 스켈레톤 코드가 주어지고 해당 코드를 수정 및 여러 기능들을 추가하여 프로젝트를 진행하였습니다. 모든 코드들은 functional components로 제작되었습니다. 프로젝트를 진행하면서 상태관리 라이브러리인 Redux, Mobx 둘중 한가지를 적용해보고 싶었으나 초기의 쉽지않은 과정과 촉박한 일정때문에 ContextAPI만을 사용하여 상태관리를 하였습니다. 이후 React를 이용한 프로젝트를 한다면 그때는 Redux, Mobx를 꼭 적용해보고 싶습니다.
 
-## UCC 바로가기
+
+## UCC 바로보기
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yYATWom7qzY' frameborder='0' allowfullscreen></iframe></div>
 
