@@ -88,5 +88,5 @@ ContextAPI를 이용한 state 관리
 ## 개발 후기
 
 ## UCC 바로가기
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/yYATWom7qzY' frameborder='0' allowfullscreen></iframe></div>
 
-[골라라 골라](https://youtu.be/yYATWom7qzY)
