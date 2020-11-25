@@ -74,7 +74,8 @@ featured-img: GolalaGola
 
 ## 역할
 
-React를 이용하여 프론트앤드 로직 및 페이지별 기초 틀 구현  
+React를 이용하여 프론트앤드 로직 및 페이지별 기초 틀 구현 <br />
+ContextAPI를 이용한 state 관리
 <br />
 <br />
 
@@ -83,6 +84,8 @@ React를 이용하여 프론트앤드 로직 및 페이지별 기초 틀 구현
 ![image](https://user-images.githubusercontent.com/44697835/91255493-dbb35200-e79f-11ea-9180-a6dd1d5011bc.png)
 <br />
 <br />
+
+## 개발 후기
 
 ## UCC 바로가기
 
