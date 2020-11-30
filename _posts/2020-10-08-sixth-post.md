@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 머물래( Web Page )
-featured-img: mainbg1
+featured-img: home1
 ---
 
 
