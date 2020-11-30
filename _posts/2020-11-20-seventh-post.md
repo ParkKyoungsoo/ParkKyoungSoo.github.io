@@ -9,7 +9,6 @@ featured-img: mainbg1
 <center><img src="https://user-images.githubusercontent.com/44697835/100569899-c99efd80-3312-11eb-90d4-7a27d688f3ac.gif" /></center><center>메인 페이지</center>    
 
 
-
   
 ![HappyHouseBoard](https://user-images.githubusercontent.com/44697835/86887150-1bac7000-c133-11ea-9532-16bfbac082ab.png)<center>공지사항 페이지</center>    
 
