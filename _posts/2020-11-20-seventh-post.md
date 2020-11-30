@@ -12,7 +12,7 @@ featured-img: dangdang
 <center><img src="https://user-images.githubusercontent.com/44697835/100570793-ec321600-3314-11eb-8893-fe99ff044955.gif" /></center><center>성향 파악 설문 페이지</center><br />   
 
 
-<img src="https://user-images.githubusercontent.com/44697835/100570387-04556580-3314-11eb-8283-a0b2a1c56621.png" width="49%"/><img src="https://user-images.githubusercontent.com/44697835/100570389-07e8ec80-3314-11eb-8dc6-bb82fb927584.png" width="49%"/><center>매칭동물 페이지(좌: 리스트형 | 우: 카드형)</center><br />    
+<img src="https://user-images.githubusercontent.com/44697835/100570387-04556580-3314-11eb-8283-a0b2a1c56621.png" width="49%"/><img src="https://user-images.githubusercontent.com/44697835/100570389-07e8ec80-3314-11eb-8dc6-bb82fb927584.png" width="49%"/><center>매칭동물 페이지(위: 리스트형 | 아래: 카드형)</center><br />    
 
 
   
