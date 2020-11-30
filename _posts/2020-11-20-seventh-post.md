@@ -20,7 +20,7 @@ featured-img: mainbg1
 
 
 ## 목적
-
+실시간 동영상 스트리밍 기능과 매칭 설문을 통한 유기견 입양 서비스
 
 
 ## 제작 기간
@@ -28,10 +28,9 @@ featured-img: mainbg1
 
 
 ## 역할
-
+vue와 vuex를 이용한 FE 개발 및 디버그, aws와 nginx를 이용한 front페이지 배포
 
 ## 내용
-
 
 
 ## 후기
@@ -39,7 +38,8 @@ featured-img: mainbg1
 
 
 ## 개발환경
-
+![KakaoTalk_20201124_134153609](https://user-images.githubusercontent.com/44697835/100572262-631cde00-3318-11eb-99c7-1c1ed37d6720.png)
+ 
 
 
 ## 시연영상
