@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 마이리틀댕댕( Web Page )
-featured-img: mainbg1
+featured-img: dangdang
 ---
 
 
