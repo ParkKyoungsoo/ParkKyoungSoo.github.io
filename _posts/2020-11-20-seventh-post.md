@@ -6,7 +6,7 @@ featured-img: mainbg1
 
 
 # 마이리틀댕댕
-![HappyHouseMain](https://user-images.githubusercontent.com/44697835/86885828-e3a42d80-c130-11ea-9519-b94d80e11ba2.png)<center>메인 페이지</center>  
+![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/44697835/100569899-c99efd80-3312-11eb-90d4-7a27d688f3ac.gif)<center>메인 페이지</center>  
 
 
   
