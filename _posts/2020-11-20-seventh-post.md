@@ -10,7 +10,7 @@ featured-img: mainbg1
 
 
   
-<img src="https://user-images.githubusercontent.com/44697835/100570387-04556580-3314-11eb-8283-a0b2a1c56621.png" width="500px"/><img src="https://user-images.githubusercontent.com/44697835/100570389-07e8ec80-3314-11eb-8dc6-bb82fb927584.png" width="500px"/><center>매칭동물 페이지(좌: 카드형 | 우: 리스트형)</center>    
+<img src="https://user-images.githubusercontent.com/44697835/100570387-04556580-3314-11eb-8283-a0b2a1c56621.png" width="500px"/><img src="https://user-images.githubusercontent.com/44697835/100570389-07e8ec80-3314-11eb-8dc6-bb82fb927584.png" width="500px"/><center>매칭동물 페이지(좌: 리스트형 | 우: 카드형)</center>    
 
 
 
