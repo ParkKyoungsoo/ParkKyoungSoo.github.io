@@ -13,7 +13,7 @@ featured-img: mainbg1
 <img src="https://user-images.githubusercontent.com/44697835/100570387-04556580-3314-11eb-8283-a0b2a1c56621.png" width="500px"/><img src="https://user-images.githubusercontent.com/44697835/100570389-07e8ec80-3314-11eb-8dc6-bb82fb927584.png" width="500px"/><center>매칭동물 페이지(좌: 리스트형 | 우: 카드형)</center>    
 
 
-<center><img src="https://user-images.githubusercontent.com/44697835/100570793-ec321600-3314-11eb-8893-fe99ff044955.gif" /></center><center>부동산 매물 조회 및 주변 상권 조회</center>  
+<center><img src="https://user-images.githubusercontent.com/44697835/100570793-ec321600-3314-11eb-8893-fe99ff044955.gif" /></center><center>성향 파악 설문 페이지</center>  
 
   
     
