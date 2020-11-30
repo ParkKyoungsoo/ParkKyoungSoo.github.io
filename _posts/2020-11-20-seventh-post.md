@@ -6,7 +6,7 @@ featured-img: mainbg1
 
 
 # 마이리틀댕댕
-![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/44697835/100569899-c99efd80-3312-11eb-90d4-7a27d688f3ac.gif)<center>메인 페이지</center>  
+<center>![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/44697835/100569899-c99efd80-3312-11eb-90d4-7a27d688f3ac.gif)</center><center>메인 페이지</center>  
 
 
   
