@@ -46,8 +46,8 @@ SSAFY에서 진행한 마지막 프로젝트입니다. 프로젝트 주제도 �
 ## 개발환경
 ![KakaoTalk_20201124_134153609](https://user-images.githubusercontent.com/44697835/100572262-631cde00-3318-11eb-99c7-1c1ed37d6720.png)
  
-## 깃랩(21.01.04 까지 접근 가능)
-[마이리틀댕댕](https://lab.ssafy.com/s03-final/s03p31b306)
+## Github(21.01.04 까지 접근 가능)
+[마이리틀댕댕](https://github.com/ParkKyoungsoo/MyLittleDangDang)
 
 ## 시연영상
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/2DJOlpAY0xo' frameborder='0' allowfullscreen></iframe></div>
