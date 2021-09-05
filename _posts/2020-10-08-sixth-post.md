@@ -42,7 +42,7 @@ SSAFY에서 제공된 맛집데이터를 분석하여 유저의 리뷰, 위치�
 ## 개발환경
 ![image](https://user-images.githubusercontent.com/44697835/95402712-58168480-094b-11eb-84c9-a26053ea8b36.png)
 
-## Github(21.01.04 까지 접근 가능)
+## Github
 [머물래](https://github.com/ParkKyoungsoo/meomulrea)
 
 
