@@ -46,7 +46,7 @@ SSAFY에서 진행한 마지막 프로젝트입니다. 프로젝트 주제도 �
 ## 개발환경
 ![KakaoTalk_20201124_134153609](https://user-images.githubusercontent.com/44697835/100572262-631cde00-3318-11eb-99c7-1c1ed37d6720.png)
  
-## Github(21.01.04 까지 접근 가능)
+## Github
 [마이리틀댕댕](https://github.com/ParkKyoungsoo/MyLittleDangDang)
 
 ## 시연영상
